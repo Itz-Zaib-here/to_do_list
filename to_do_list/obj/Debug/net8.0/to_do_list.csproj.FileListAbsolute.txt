@@ -1,0 +1,14 @@
+E:\zaib\to_do_list\to_do_list\bin\Debug\net8.0\to_do_list.exe
+E:\zaib\to_do_list\to_do_list\bin\Debug\net8.0\to_do_list.deps.json
+E:\zaib\to_do_list\to_do_list\bin\Debug\net8.0\to_do_list.runtimeconfig.json
+E:\zaib\to_do_list\to_do_list\bin\Debug\net8.0\to_do_list.dll
+E:\zaib\to_do_list\to_do_list\bin\Debug\net8.0\to_do_list.pdb
+E:\zaib\to_do_list\to_do_list\obj\Debug\net8.0\to_do_list.GeneratedMSBuildEditorConfig.editorconfig
+E:\zaib\to_do_list\to_do_list\obj\Debug\net8.0\to_do_list.AssemblyInfoInputs.cache
+E:\zaib\to_do_list\to_do_list\obj\Debug\net8.0\to_do_list.AssemblyInfo.cs
+E:\zaib\to_do_list\to_do_list\obj\Debug\net8.0\to_do_list.csproj.CoreCompileInputs.cache
+E:\zaib\to_do_list\to_do_list\obj\Debug\net8.0\to_do_list.dll
+E:\zaib\to_do_list\to_do_list\obj\Debug\net8.0\refint\to_do_list.dll
+E:\zaib\to_do_list\to_do_list\obj\Debug\net8.0\to_do_list.pdb
+E:\zaib\to_do_list\to_do_list\obj\Debug\net8.0\to_do_list.genruntimeconfig.cache
+E:\zaib\to_do_list\to_do_list\obj\Debug\net8.0\ref\to_do_list.dll
